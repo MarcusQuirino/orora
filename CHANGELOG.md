@@ -5,6 +5,7 @@
 ### Patch Changes
 
 - 06995b0: another fix
+- fix bundler
 
 ## 0.0.2
 
