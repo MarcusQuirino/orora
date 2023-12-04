@@ -1,5 +1,3 @@
-import { copyFileSync } from 'fs'
-
 await Bun.build({
   entrypoints: ['./src/index.ts'],
   outdir: './dist',
