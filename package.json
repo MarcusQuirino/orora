@@ -2,17 +2,18 @@
   "name": "orora",
   "version": "0.0.1",
   "module": "src/index.ts",
-  "type": "module",
-  "license": "MIT",
-  "scripts": {
-    "dev": "bun test --watch",
-    "test": "bun test",
-    "build": "bun run build.ts"
-  },
   "devDependencies": {
     "bun-types": "latest"
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
-  }
+  },
+  "license": "MIT",
+  "scripts": {
+    "dev": "bun test --watch",
+    "test": "bun test",
+    "build": "bun run build.ts",
+    "ci": "bun test && bun run build"
+  },
+  "type": "module"
 }
