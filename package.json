@@ -1,10 +1,28 @@
 {
   "name": "orora",
   "version": "0.0.4",
+  "description": "multi-agent applications made simple",
+  "author": {
+    "name": "Marcus Filipus",
+    "url": "https://github.com/MarcusQuirino",
+    "email": "marcusfilipus@gmail.com"
+  },
   "module": "./dist/index.js",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MarcusQuirino/orora"
+  },
+  "bugs": "https://github.com/MarcusQuirino/orora/issues",
+  "keywords": [
+    "bun",
+    "IA",
+    "multi-agent aplication",
+    "chatGPT",
+    "IA Agent"
+  ],
   "devDependencies": {
     "@changesets/cli": "^2.27.1",
     "bun-types": "latest",
