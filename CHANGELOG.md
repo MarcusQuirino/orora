@@ -4,7 +4,6 @@
 
 ### Patch Changes
 
-- add readme
 - 8a28dd5: update info on package.json
 
 ## 0.0.4
