@@ -1,5 +1,12 @@
 # orora
 
+## 0.0.5
+
+### Patch Changes
+
+- add readme
+- 8a28dd5: update info on package.json
+
 ## 0.0.4
 
 ### Patch Changes
