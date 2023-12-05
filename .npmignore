@@ -4,3 +4,4 @@ src
 bun.lockb
 tsconfig.json
 build.ts
+tsconfig.tsbuildinfo
